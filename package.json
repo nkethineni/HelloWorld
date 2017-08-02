@@ -1,0 +1,22 @@
+{
+  "name": "nodejsgettingstarted",
+  "version": "1.0.0",
+  "description": "My first Node JS project",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkethineni/HelloWorld.git"
+  },
+  "keywords": [
+    "gettingstarted"
+  ],
+  "author": "Naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkethineni/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/nkethineni/HelloWorld#readme"
+}
